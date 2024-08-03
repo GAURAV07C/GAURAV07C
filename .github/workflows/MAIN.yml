@@ -54,6 +54,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          ![snake gif](https://github.com/GAURAV07C/GAURAV07C/blob/output/github-contribution-grid-snake.gif)
+      
 
           
