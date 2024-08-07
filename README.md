@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **a E Learnig Platform**
+ 🔭 I’m currently working with **Cybernerds KLU**
  
  🌱 I’m currently learning **Docker,  AWS**
 
