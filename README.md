@@ -1,4 +1,4 @@
-![GitHub Banner](https://plus.unsplash.com/premium_photo-1722111091429-dd3dc55979d3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8)
+![GitHub Banner](https://github.com/GAURAV07C/GAURAV07C/blob/main/image.png)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurav!;+I'm+a+MERN+Stack+Developer!;" />
