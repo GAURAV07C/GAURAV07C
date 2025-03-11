@@ -70,7 +70,8 @@
 ## 🐍 **Eating My Contributions**
 
 <div align="center">
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GAURAV07C/GAURAV07C/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://github.com/GAURAV07C/GAURAV07C/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 </div>
 
