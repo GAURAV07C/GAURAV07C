@@ -1,7 +1,7 @@
 ![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurav!;+I'm+a+MERN+Stack+Developer!;Passionate+about+Building+Awesome+Products!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gaurav!;+I'm+a+MERN+Stack+Developer!;" />
 </h1>
 
 <h3 align="center">🚀 Full Stack Developer | Passionate about Web Technologies | Open Source Enthusiast</h3>
