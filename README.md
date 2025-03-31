@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working with **Cybernerds KLU**
+
  
  🌱 I’m currently learning **Docker, AWS, Redis**
 
