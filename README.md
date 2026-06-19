@@ -86,6 +86,12 @@
     <img src="https://streak-stats.demolab.com/?user=GAURAV07C&theme=dark" alt="GitHub Streak" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV07C&layout=compact&theme=radical" alt="Top Languages" />
+
+<div align="center">
+  <a href="https://leetcode.com/u/GAURAV07C/">
+    <img src="https://leetcard.jacoblin.cool/GAURAV07C?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
+  </a>
+</div>
 </div>
 
 ### 🚀 Open Source
