@@ -81,18 +81,34 @@
 ## 📊 **GitHub Stats & Activity**
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GAURAV07C&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <br>
-    <img src="https://streak-stats.demolab.com/?user=GAURAV07C&theme=dark" alt="GitHub Streak" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV07C&layout=compact&theme=radical" alt="Top Languages" />
 
-<div align="center">
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GAURAV07C&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GAURAV07C&theme=radical" width="320" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GAURAV07C&theme=radical" width="320" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GAURAV07C&theme=radical" width="320" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GAURAV07C&theme=radical&utcOffset=5.5" width="320" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=GAURAV07C&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+
+<p align="center">
   <a href="https://leetcode.com/u/GAURAV07C/">
-    <img src="https://leetcard.jacoblin.cool/GAURAV07C?theme=dark&font=Baloo&ext=contest" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/GAURAV07C?theme=dark&font=Baloo&ext=contest" />
   </a>
+</p>
+
 </div>
-</div>
+
+### test
+
 
 ### 🚀 Open Source
 
